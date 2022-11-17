@@ -3,9 +3,10 @@
 <h1>Jacob Neitzell</h1>
  
 
-<div id="badges">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JacobNeitzell&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<div>
+ <br>
+<div id="badges">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -21,6 +22,9 @@
 </div>
 <div>
  <a href="https://www.linkedin.com/in/jacob-neitzell/">
+  </div>
+ <br>
+  <div>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </div>
